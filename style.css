@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif; /* Example font */
+    padding: 20px;
+    margin: 0;
+}
+
+header, main, footer {
+    max-width: 1200px;
+    margin: auto;
+}
+
+.About{
+    border: 1px solid #dcdcdc;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.web-experience-box {
+    border: 1px solid #dcdcdc;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: #f5f5f5;
+    text-align: center;
+}
